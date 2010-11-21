@@ -1,0 +1,10 @@
+0000	add
+0001	sub
+0010	mul
+0011	div
+0100	and
+0101	or
+0110	not
+0111	xor
+1000	mov
+1001	load
